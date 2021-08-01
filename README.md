@@ -1,2 +1,2 @@
 # dio
-Projetos Dio
+Desafio de Projetos Git/Github no curso DIO
